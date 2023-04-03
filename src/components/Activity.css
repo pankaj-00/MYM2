@@ -1,0 +1,118 @@
+.recent-activity {
+  position: absolute;
+  top: 30px;
+  left: calc(50% - 370px);
+  font-size: var(--font-size-9xl);
+  line-height: 30px;
+}
+.alex-morgan-sent-container {
+  position: absolute;
+  top: 104px;
+  left: 91px;
+  line-height: 16.49px;
+}
+.mujo-prosper-sent-container,
+.upcoming-task-container {
+  position: absolute;
+  top: 175px;
+  left: 91px;
+  line-height: 16.49px;
+}
+.upcoming-task-container {
+  top: 246px;
+  left: 92px;
+}
+.ellipse-icon {
+  top: 93px;
+  left: 40px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.frame-child5,
+.frame-child6 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+}
+.frame-child5 {
+  top: 164px;
+  left: 40px;
+  object-fit: cover;
+}
+.frame-child6 {
+  top: 235px;
+  left: 41px;
+}
+.vuesaxlinear3square-icon {
+  position: absolute;
+  top: 244px;
+  left: 50px;
+  width: 18px;
+  height: 18px;
+}
+.frame-child7,
+.vector-icon {
+  position: absolute;
+  top: 148px;
+  left: 40px;
+  width: 738px;
+  height: 2px;
+}
+.frame-child7 {
+  top: 219px;
+}
+.h,
+.last {
+  position: absolute;
+  top: 8px;
+  left: 52px;
+  line-height: 16.49px;
+}
+.last {
+  left: 20px;
+}
+.vuesaxlineararrow-square-dow-icon2 {
+  position: absolute;
+  top: 9px;
+  left: 88px;
+  width: 14px;
+  height: 14px;
+}
+.h-parent,
+.scrollbar {
+  position: absolute;
+  background-color: var(--color-whitesmoke-200);
+}
+.h-parent {
+  top: 28px;
+  left: 666px;
+  border-radius: var(--br-5xs);
+  width: 112px;
+  height: 32px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.scrollbar {
+  top: 89px;
+  left: 797.02px;
+  border-radius: var(--br-9xs-5);
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 9px;
+  height: 158.56px;
+  transform: rotate(0.01deg);
+  transform-origin: 0 0;
+}
+.recent-activity-parent {
+  position: absolute;
+  top: 729px;
+  left: 692px;
+  background-color: var(--color-white);
+  width: 820px;
+  height: 295px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+  font-family: var(--font-sulphur-point);
+}

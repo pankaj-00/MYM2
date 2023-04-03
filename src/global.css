@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sulphur-point: "Sulphur Point";
+  --font-roboto: Roboto;
+  --font-rubik: Rubik;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-xs-5: 11.5px;
+  --font-size-4xs-7: 8.7px;
+  --font-size-5xs-2: 7.2px;
+  --font-size-9xl: 28px;
+  --font-size-17xl: 36px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-4xl-3: 23.3px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke-100: #f8f8f8;
+  --color-whitesmoke-200: rgba(236, 236, 236, 0.5);
+  --color-darkgray: #94979a;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #1f1f1f;
+  --color-gray-300: #131313;
+  --color-gray-700: rgba(19, 19, 19, 0.4);
+  --color-gray-400: rgba(0, 0, 0, 0.6);
+  --color-gray-500: rgba(0, 0, 0, 0.38);
+  --color-gray-600: rgba(0, 0, 0, 0.87);
+  --color-lightsteelblue-100: #c5c7f6;
+  --color-lightgoldenrodyellow-100: #c2ecc1;
+  --color-honeydew: #ddf6de;
+  --color-darkolivegreen: #608662;
+  --color-lavender-100: #d4d4fc;
+  --color-lavender-200: rgba(212, 212, 252, 0.12);
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-6xl: 25px;
+  --gap-5xs: 8px;
+  --gap-8xs: 5px;
+  --gap-mini: 15px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-7xs: 6px;
+  --padding-2xs: 11px;
+  --padding-27xl: 46px;
+  --padding-6xl: 25px;
+  --padding-xl: 20px;
+  --padding-61xl: 80px;
+  --padding-8xs: 5px;
+  --padding-59xl: 78px;
+  --padding-41xl: 60px;
+  --padding-9xs: 4px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+  --br-53xl-1: 72.1px;
+  --br-9xs-5: 3.5px;
+  --br-8xs: 5px;
+  --br-5xl: 24px;
+}

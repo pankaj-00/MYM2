@@ -920,9 +920,7 @@
   color: var(--color-darkgray);
 }
 
-.search-parent input {
-  display: hidden;
-}
+
 .div {
   position: relative;
   background-color: var(--color-white);

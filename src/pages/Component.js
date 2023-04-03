@@ -226,10 +226,7 @@ const Component = () => {
         />
       </div>
       <div className="search-parent">
-        <div className="b">
-          <input />
-          Search
-        </div>
+        <div className="b">Search</div>
         <img
           className="vuesaxlineararrow-square-dow-icon"
           alt=""

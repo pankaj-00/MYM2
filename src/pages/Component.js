@@ -74,7 +74,7 @@ const Component = () => {
           <b className="b">60%</b>
         </div>
       </div>
-      <img className="child" alt="" src="/frame-34059.svg" />
+      <img className="child" alt="" src="/hist.png" />
       <Activity />
       <b className="campaign-analytics">Campaign Analytics</b>
       <div className="ellipse-parent">
